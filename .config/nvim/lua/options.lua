@@ -1,0 +1,6 @@
+vim.cmd("set number")
+vim.cmd("set relativenumber")
+vim.cmd("set ts=2")
+vim.cmd("set cmdheight=0")
+vim.cmd("set termguicolors")
+vim.cmd("set scrolloff=5")
