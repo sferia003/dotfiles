@@ -7,6 +7,7 @@ return {
 		},
 		formatters_by_ft = {
 			lua = { "stylua", stop_after_first = true },
+			java = { }
 		},
 	},
 }

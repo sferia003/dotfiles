@@ -5,6 +5,7 @@ return {
 		ensure_installed = {
 			"typst",
 			"purescript",
+			"java",
 			"nim",
 			"vimdoc",
 			"go",
